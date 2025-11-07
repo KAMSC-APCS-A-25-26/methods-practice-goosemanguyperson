@@ -9,9 +9,7 @@ public class TripPlanner {
         // - Distance (miles)
         // - Average speed (mph)
         // - Fuel efficiency (miles per gallon)
-        // - Fuel price per gallon
-
-
+        // - Fuel price per gallpon
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter travel distance: ");
         double distance = sc.nextDouble();
